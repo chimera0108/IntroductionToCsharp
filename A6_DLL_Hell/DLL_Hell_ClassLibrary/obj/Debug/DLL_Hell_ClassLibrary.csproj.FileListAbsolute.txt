@@ -1,0 +1,10 @@
+C:\Users\Brent Creech\.git\IntroductionToCsharp_01\DLL_Hell_A1\DLL_Hell_ClassLibrary\bin\Debug\DLL_Hell_ClassLibrary.dll
+C:\Users\Brent Creech\.git\IntroductionToCsharp_01\DLL_Hell_A1\DLL_Hell_ClassLibrary\bin\Debug\DLL_Hell_ClassLibrary.pdb
+C:\Users\Brent Creech\.git\IntroductionToCsharp_01\DLL_Hell_A1\DLL_Hell_ClassLibrary\obj\Debug\DLL_Hell_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Brent Creech\.git\IntroductionToCsharp_01\DLL_Hell_A1\DLL_Hell_ClassLibrary\obj\Debug\DLL_Hell_ClassLibrary.dll
+C:\Users\Brent Creech\.git\IntroductionToCsharp_01\DLL_Hell_A1\DLL_Hell_ClassLibrary\obj\Debug\DLL_Hell_ClassLibrary.pdb
+C:\Users\Brent Creech\.git\IntroductionToCsharp\A6_DLL_Hell\DLL_Hell_ClassLibrary\bin\Debug\DLL_Hell_ClassLibrary.dll
+C:\Users\Brent Creech\.git\IntroductionToCsharp\A6_DLL_Hell\DLL_Hell_ClassLibrary\bin\Debug\DLL_Hell_ClassLibrary.pdb
+C:\Users\Brent Creech\.git\IntroductionToCsharp\A6_DLL_Hell\DLL_Hell_ClassLibrary\obj\Debug\DLL_Hell_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Brent Creech\.git\IntroductionToCsharp\A6_DLL_Hell\DLL_Hell_ClassLibrary\obj\Debug\DLL_Hell_ClassLibrary.dll
+C:\Users\Brent Creech\.git\IntroductionToCsharp\A6_DLL_Hell\DLL_Hell_ClassLibrary\obj\Debug\DLL_Hell_ClassLibrary.pdb

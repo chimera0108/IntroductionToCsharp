@@ -1,0 +1,7 @@
+C:\Users\Brent Creech\.git\IntroductionToCsharp_01\Built_In_Types\Built_In_Types\bin\Debug\Built_In_Types.exe.config
+C:\Users\Brent Creech\.git\IntroductionToCsharp_01\Built_In_Types\Built_In_Types\bin\Debug\Built_In_Types.exe
+C:\Users\Brent Creech\.git\IntroductionToCsharp_01\Built_In_Types\Built_In_Types\bin\Debug\Built_In_Types.pdb
+C:\Users\Brent Creech\.git\IntroductionToCsharp_01\Built_In_Types\Built_In_Types\obj\Debug\Built_In_Types.csprojAssemblyReference.cache
+C:\Users\Brent Creech\.git\IntroductionToCsharp_01\Built_In_Types\Built_In_Types\obj\Debug\Built_In_Types.csproj.CoreCompileInputs.cache
+C:\Users\Brent Creech\.git\IntroductionToCsharp_01\Built_In_Types\Built_In_Types\obj\Debug\Built_In_Types.exe
+C:\Users\Brent Creech\.git\IntroductionToCsharp_01\Built_In_Types\Built_In_Types\obj\Debug\Built_In_Types.pdb

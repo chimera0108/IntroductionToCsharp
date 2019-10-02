@@ -1,0 +1,11 @@
+C:\Users\Brent Creech\.git\IntroductionToCsharp_01\How_NET_Finds_Assm\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Brent Creech\.git\IntroductionToCsharp_01\How_NET_Finds_Assm\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Brent Creech\.git\IntroductionToCsharp_01\How_NET_Finds_Assm\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Brent Creech\.git\IntroductionToCsharp_01\How_NET_Finds_Assm\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Brent Creech\.git\IntroductionToCsharp_01\How_NET_Finds_Assm\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Brent Creech\.git\IntroductionToCsharp\A5_How_NET_Finds_Assm\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Brent Creech\.git\IntroductionToCsharp\A5_How_NET_Finds_Assm\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Brent Creech\.git\IntroductionToCsharp\A5_How_NET_Finds_Assm\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Brent Creech\.git\IntroductionToCsharp\A5_How_NET_Finds_Assm\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Brent Creech\.git\IntroductionToCsharp\A5_How_NET_Finds_Assm\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Brent Creech\.git\IntroductionToCsharp\A5_How_NET_Finds_Assm\ClassLibrary\obj\Debug\ClassLibrary.pdb
