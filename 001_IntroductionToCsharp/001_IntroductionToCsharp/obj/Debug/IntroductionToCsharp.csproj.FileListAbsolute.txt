@@ -1,6 +1,0 @@
-C:\Users\Brent Creech\.git\IntroductionToCsharp_01\IntroductionToCsharp\bin\Debug\IntroductionToCsharp.exe.config
-C:\Users\Brent Creech\.git\IntroductionToCsharp_01\IntroductionToCsharp\bin\Debug\IntroductionToCsharp.exe
-C:\Users\Brent Creech\.git\IntroductionToCsharp_01\IntroductionToCsharp\bin\Debug\IntroductionToCsharp.pdb
-C:\Users\Brent Creech\.git\IntroductionToCsharp_01\IntroductionToCsharp\obj\Debug\IntroductionToCsharp.csproj.CoreCompileInputs.cache
-C:\Users\Brent Creech\.git\IntroductionToCsharp_01\IntroductionToCsharp\obj\Debug\IntroductionToCsharp.exe
-C:\Users\Brent Creech\.git\IntroductionToCsharp_01\IntroductionToCsharp\obj\Debug\IntroductionToCsharp.pdb
